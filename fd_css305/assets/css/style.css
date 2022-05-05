@@ -1,0 +1,22 @@
+.wrapper{
+  min-width: 300px;
+  width: 80%;
+  max-width: 400px;
+  /* height: 50mm; */
+  min-height: 150px;
+  height: auto;
+  max-height: 200px;
+  border: 3px solid red;
+  margin: auto;
+  ;
+}
+.inner{
+box-sizing: border-box;
+  width: 50%;
+  height: 100%;
+  padding: 5%;
+  border: 3px solid red;
+border-color: blue;
+margin: 10%;
+margin-top: 10%
+}
